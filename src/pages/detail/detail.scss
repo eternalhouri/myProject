@@ -1,0 +1,27 @@
+page-detail {
+    .back-button {
+        color: #4d8dff;
+    }
+    .button-inner {
+        font-size: 16px;
+    }
+    .toolbar-title {
+        margin-left: 70px;
+        font-weight: bolder;
+    }
+    .slides {
+        height: 280px;
+    }
+    .subtitle,
+    .price {
+        color: #f53d3d;
+    }
+    .subtitle {
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .price {
+        font-size: 20px;
+        font-weight: bolder;
+    }
+}

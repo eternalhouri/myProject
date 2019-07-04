@@ -1,0 +1,23 @@
+page-login {
+    .back-button {
+        color: #4d8dff;
+    }
+    .toolbar-title {
+        margin-left: 70px;
+        font-weight: bolder;
+    }
+    .avater {
+        text-align: center;
+        img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+    }
+    .leftButton {
+        text-align: left;
+    }
+    .rightButton {
+        text-align: right;
+    }
+}
